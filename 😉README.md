@@ -13,7 +13,7 @@ I'm Vanilla Thulisile Sibanda (please don't call me by my first name though 😊
 
 - [Hashnode](https://hashnode.com/@thulieblack)
 - [Twitter](https://twitter.com/Thulie_Vannie)
-- [Instagram](https://instagram.com/the_proudly_thulisile)
+- [Instagram](https://www.instagram.com/the_proudlyblack_thulisile/)
 - [Github](https://github.com/thulieblack)
 - [Tableau](https://public.tableau.com/profile/thulieblack#!/)
 - [LinkedIn](https://www.linkedin.com/in/v-thulisile-sibanda)
