@@ -7,7 +7,7 @@ I'm Vanilla Thulisile Sibanda (please don't call me by my first name though 😊
 - 💬 Ask me about Data analysis and technical writing
 - 📫 How to reach me: [@Thulie_Vannie](https://twitter.com/Thulie_Vannie)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm a foodie 
+- ⚡ Fun fact: I'm a foodie and white chocolate lover 😜
 
 ### You can follow me here 🌹
 
