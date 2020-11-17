@@ -1,5 +1,8 @@
 ### Hie there!
 
+![mygif.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1605615710701/u_17GStfO.gif)
+
+
 
 I'm Vanilla Thulisile Sibanda (please don't call me by my first name though 😊) known as thulieblack. A self-taught Data Analyst,Python Programmer,Machine Learning Beginner,Techinal Writer and an Open Source enthusiast. Aside from programming i'm passionate about Mental Health as it is very important to have a great physical and mental well being inorder to be productive and spread positivity to others as well. 
 
