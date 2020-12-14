@@ -22,9 +22,9 @@ I'm Vanilla Thulisile Sibanda (please don't call me by my first name though 😊
 - [LinkedIn](https://www.linkedin.com/in/v-thulisile-sibanda)
 # 📩 Check out my Latest Blog Post 
 <!-- BLOG-POST-LIST:START -->
-- [Top Chrome Extensions Every Developer Should Use 🛠](https://iamdarshshah.hashnode.dev/top-chrome-extensions-every-developer-should-use)
-- [Top VS Code Extensions Every Developer Should Use 🛠](https://iamdarshshah.hashnode.dev/top-vs-code-extensions-every-developer-should-use)
-- [JavaScript console API](https://iamdarshshah.hashnode.dev/javascript-console-api)
-- [How to Add Your Recently Published Articles to Your GitHub Profile README using GitHub Actions 🤖](https://iamdarshshah.hashnode.dev/how-to-add-your-recently-published-articles-to-your-github-profile-readme-using-github-actions)
-- [Start Documenting your Journey ✍️](https://iamdarshshah.hashnode.dev/start-documenting-your-journey)
+- [Being A Tech Mom - SuperWoman](https://thulieblack.hashnode.dev/being-a-tech-mom-superwoman)
+- [Why Beginners Should Learn Analytic Tools](https://thulieblack.hashnode.dev/why-beginners-should-learn-analytic-tools)
+- [Essential Skills Every Data Analyst Should Learn](https://thulieblack.hashnode.dev/essential-skills-every-data-analyst-should-learn)
+- [How To Stay Motivated As A Technical Blogger/Writer](https://thulieblack.hashnode.dev/how-to-stay-motivated-as-a-technical-bloggerwriter)
+- [The Importance of Blogging](https://thulieblack.hashnode.dev/the-importance-of-blogging)
 <!-- BLOG-POST-LIST:END -->
