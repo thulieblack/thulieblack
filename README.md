@@ -22,4 +22,9 @@ I'm Vanilla Thulisile Sibanda (please don't call me by my first name though 😊
 - [LinkedIn](https://www.linkedin.com/in/v-thulisile-sibanda)
 # 📩 Check out my Latest Blog Post 
 <!-- BLOG-POST-LIST:START -->
+- [Top Chrome Extensions Every Developer Should Use 🛠](https://iamdarshshah.hashnode.dev/top-chrome-extensions-every-developer-should-use)
+- [Top VS Code Extensions Every Developer Should Use 🛠](https://iamdarshshah.hashnode.dev/top-vs-code-extensions-every-developer-should-use)
+- [JavaScript console API](https://iamdarshshah.hashnode.dev/javascript-console-api)
+- [How to Add Your Recently Published Articles to Your GitHub Profile README using GitHub Actions 🤖](https://iamdarshshah.hashnode.dev/how-to-add-your-recently-published-articles-to-your-github-profile-readme-using-github-actions)
+- [Start Documenting your Journey ✍️](https://iamdarshshah.hashnode.dev/start-documenting-your-journey)
 <!-- BLOG-POST-LIST:END -->
