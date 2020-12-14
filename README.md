@@ -20,3 +20,6 @@ I'm Vanilla Thulisile Sibanda (please don't call me by my first name though 😊
 - [Github](https://github.com/thulieblack)
 - [Tableau](https://public.tableau.com/profile/thulieblack#!/)
 - [LinkedIn](https://www.linkedin.com/in/v-thulisile-sibanda)
+# 📩 Check out my Latest Blog Post 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
