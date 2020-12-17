@@ -22,9 +22,9 @@ I'm Vanilla Thulisile Sibanda (please don't call me by my first name though 😊
 - [LinkedIn](https://www.linkedin.com/in/v-thulisile-sibanda)
 # 📩 Check out my Latest Blog Post 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Projects For Data Science Beginner's](https://thulieblack.hashnode.dev/open-source-projects-for-data-science-beginners)
 - [Being A Tech Mom - SuperWoman](https://thulieblack.hashnode.dev/being-a-tech-mom-superwoman)
 - [Why Beginners Should Learn Analytic Tools](https://thulieblack.hashnode.dev/why-beginners-should-learn-analytic-tools)
 - [Essential Skills Every Data Analyst Should Learn](https://thulieblack.hashnode.dev/essential-skills-every-data-analyst-should-learn)
 - [How To Stay Motivated As A Technical Blogger/Writer](https://thulieblack.hashnode.dev/how-to-stay-motivated-as-a-technical-bloggerwriter)
-- [The Importance of Blogging](https://thulieblack.hashnode.dev/the-importance-of-blogging)
 <!-- BLOG-POST-LIST:END -->
