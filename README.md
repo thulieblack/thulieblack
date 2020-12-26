@@ -1,6 +1,6 @@
 ### Hie there!
 
-![mygif.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1605615710701/u_17GStfO.gif)
+![20201224_1503531.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1608981101709/b1uMJDFbR.gif)
 
 
 
