@@ -8,7 +8,7 @@ I'm V Thulisile Sibanda known as thulieblack. A self-taught Data Analyst,Python 
 
 - 🌱 I’m currently learning machine learning
 - 💬 Ask me about Data analysis and technical writing
-- 📫 How to reach me: [@Thulie_Vannie](https://twitter.com/Thulie_Vannie)
+- 📫 How to reach me: [@thulieblack](https://twitter.com/thulieblack)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a foodie and white chocolate lover 😜
 
