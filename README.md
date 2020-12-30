@@ -15,7 +15,7 @@ I'm V Thulisile Sibanda known as thulieblack. A self-taught Data Analyst,Python 
 ### You can follow me here 🌹
 
 - [Hashnode](https://hashnode.com/@thulieblack)
-- [Twitter](https://twitter.com/Thulie_Vannie)
+- [Twitter](https://twitter.com/thulieblack)
 - [Instagram](https://www.instagram.com/the_proudlyblack_thulisile/)
 - [Github](https://github.com/thulieblack)
 - [Tableau](https://public.tableau.com/profile/thulieblack#!/)
