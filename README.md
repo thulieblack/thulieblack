@@ -22,9 +22,9 @@ I'm V Thulisile Sibanda known as thulieblack. A self-taught Data Analyst,Python 
 - [LinkedIn](https://www.linkedin.com/in/v-thulisile-sibanda)
 # 📩 Check out my Latest Blog Post 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started In Machine Learning](https://thulieblack.hashnode.dev/getting-started-in-machine-learning)
 - [My 2020 Year  Review](https://thulieblack.hashnode.dev/my-2020-year-review)
 - [Open Source Projects For Data Science Beginner's](https://thulieblack.hashnode.dev/open-source-projects-for-data-science-beginners)
 - [Being A Tech Mom - SuperWoman](https://thulieblack.hashnode.dev/being-a-tech-mom-superwoman)
 - [Why Beginners Should Learn Analytic Tools](https://thulieblack.hashnode.dev/why-beginners-should-learn-analytic-tools)
-- [Essential Skills Every Data Analyst Should Learn](https://thulieblack.hashnode.dev/essential-skills-every-data-analyst-should-learn)
 <!-- BLOG-POST-LIST:END -->
