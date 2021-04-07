@@ -1,10 +1,7 @@
 ### Hie there!
 
-![20201224_1503531.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1608981101709/b1uMJDFbR.gif)
 
-
-
-I'm V Thulisile Sibanda known as thulieblack. A self-taught Python Programmer,Technical Writer and a Data Science enthusiast. Aside from programming i'm passionate about Mental Health as it is very important to have a great physical and mental well being inorder to be productive and spread positivity to others as well. 
+I'm V Thulisile Sibanda known as thulieblack. A self-taught Python Programmer and a Data Science Enthusiast.
 
 - 🌱 I’m currently learning machine learning
 - 💬 Ask me about technical writing
