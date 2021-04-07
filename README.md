@@ -1,7 +1,9 @@
-### Hie there!
+### Hie there!👋🏿👋🏿
 
 
 I'm V Thulisile Sibanda known as thulieblack. A self-taught Python Programmer and a Data Science Enthusiast.
+
+
 
 - 🌱 I’m currently learning machine learning
 - 💬 Ask me about technical writing
