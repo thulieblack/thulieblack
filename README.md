@@ -5,7 +5,7 @@
 
 
 
-<li><a href="https://twitter.com/thulieblack" target="_blank">
+<a href="https://twitter.com/thulieblack" target="_blank">
 <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" /></a>
 <a href="https://github.com/thulieblack" target="_blank">
 <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?&style=flat-square&logo=github&logoColor=white" />
