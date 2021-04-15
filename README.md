@@ -5,6 +5,16 @@
 
 
 
+<li><a href="https://twitter.com/thulieblack" target="_blank">
+<img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" /></a>
+<a href="https://github.com/thulieblack" target="_blank">
+<img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?&style=flat-square&logo=github&logoColor=white" />
+<a href="https://www.linkedin.com/in/v-thulisile-sibanda/" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://hashnode.com/@thulieblack" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a>
+
+
 A self-taught Python Programmer, Data Science Enthusiast who is passionate about helping and teaching others. I'm open-minded, always looking for opportunites to learn and upskill.
 
 
@@ -18,14 +28,7 @@ A self-taught Python Programmer, Data Science Enthusiast who is passionate about
 
 ---
 
-### You can follow me here 🌹
 
-- [Hashnode](https://hashnode.com/@thulieblack)
-- [Twitter](https://twitter.com/thulieblack)
-- [Instagram](https://www.instagram.com/the_proudlyblack_thulisile/)
-- [Github](https://github.com/thulieblack)
-- [Tableau](https://public.tableau.com/profile/thulieblack#!/)
-- [LinkedIn](https://www.linkedin.com/in/v-thulisile-sibanda)
 # 📩 Check out my Latest Blog Post 
 <!-- BLOG-POST-LIST:START -->
 - [Differentiating Technical Writing From Business Writing](https://thulieblack.hashnode.dev/differentiating-technical-writing-from-business-writing)
