@@ -1,9 +1,11 @@
-### Hie there!👋🏿👋🏿
+### Hie there👋🏿, I'm V Thulisile Sibanda.
 ![img](https://i.pinimg.com/originals/88/44/13/884413348e601d88831b61fd969aafc4.gif)
 
 
 
-I'm V Thulisile Sibanda known as thulieblack. A self-taught Python Programmer, Data Science Enthusiast who is passionate about helping and teaching others. I'm open-minded, always looking for opportunites to learn and upskill.
+
+
+A self-taught Python Programmer, Data Science Enthusiast who is passionate about helping and teaching others. I'm open-minded, always looking for opportunites to learn and upskill.
 
 
 ---
