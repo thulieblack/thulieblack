@@ -37,3 +37,10 @@ A self-taught Python Programmer, Data Science Enthusiast who is passionate about
 - [Open Source Projects For Data Science Beginner's](https://thulieblack.hashnode.dev/open-source-projects-for-data-science-beginners)
 - [Being A Tech Mom - SuperWoman](https://thulieblack.hashnode.dev/being-a-tech-mom-superwoman)
 <!-- BLOG-POST-LIST:END -->
+
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thulieblack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Thulie's GitHub stats](https://github-readme-stats.vercel.app/api?username=thulieblack&show_icons=true&theme=radical)
+
