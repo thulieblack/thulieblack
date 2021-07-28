@@ -42,5 +42,6 @@ A self-taught Python Programmer, Data Science Enthusiast who is passionate about
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thulieblack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Thulie's GitHub stats](https://github-readme-stats.vercel.app/api?username=thulieblack&show_icons=true&theme=radical)
+
+ ![Thulie's GitHub stats](https://github-readme-stats.vercel.app/api?username=thulieblack&show_icons=true&theme=radical)
 
