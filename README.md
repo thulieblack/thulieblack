@@ -23,13 +23,13 @@ A self-taught Python Programmer, Data Science Enthusiast who is passionate about
 🧰 Toolbox
 
 
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="100" height="100"/> <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="Tensorflow Logo" width="100" height="100"/> <img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="Html Logo" width="100" height="100"/> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/jupyter/jupyter-original-wordmark.svg" alt="juypter Logo" width="100" height="100"/>   
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="100" height="100"/> <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="Tensorflow Logo" width="100" height="100"/> <img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="Html Logo" width="100" height="100"/> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/jupyter/jupyter-original-wordmark.svg" alt="juypter Logo" width="100" height="100"/> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_169823.png" alt="Pytorch Logo" width="200" height="100"/>      
 
 
 ---
 
 
-# 📩 Check out my Latest Blog Post 
+# 📩 Check out my Latest Blog Articles 
 <!-- BLOG-POST-LIST:START -->
 - [Getting Started With Deep Learning](https://thulieblack.hashnode.dev/getting-started-with-deep-learning)
 - [Recommendation Systems](https://thulieblack.hashnode.dev/recommendation-systems)
