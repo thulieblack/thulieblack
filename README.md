@@ -31,11 +31,11 @@ A self-taught Python Programmer, Data Science Enthusiast who is passionate about
 
 # 📩 Check out my Latest Blog Articles 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started With Deep Learning II](https://thulieblack.hashnode.dev/getting-started-with-deep-learning-ii)
 - [Getting Started With Deep Learning](https://thulieblack.hashnode.dev/getting-started-with-deep-learning)
 - [Recommendation Systems](https://thulieblack.hashnode.dev/recommendation-systems)
 - [The Fundamentals Of Writing](https://thulieblack.hashnode.dev/the-fundamentals-of-writing)
 - [Differentiating Technical Writing From Business Writing](https://thulieblack.hashnode.dev/differentiating-technical-writing-from-business-writing)
-- [Getting Started In Machine Learning](https://thulieblack.hashnode.dev/getting-started-in-machine-learning)
 <!-- BLOG-POST-LIST:END -->
 
 
