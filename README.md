@@ -23,7 +23,7 @@ A Technical Witer, Open Source Enthusiast, Data Scientist and a Python Programme
 🧰 Toolbox
 
 
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="100" height="100"/> <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="Tensorflow Logo" width="100" height="100"/> <img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="Html Logo" width="100" height="100"/> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/jupyter/jupyter-original-wordmark.svg" alt="juypter Logo" width="100" height="100"/> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_169823.png" alt="Pytorch Logo" width="200" height="100"/> <img src="https://www.macworld.co.uk/cmsdata/features/3638150/setup_learn_sql_mac_thumb800.jpg" alt="sql Logo" width="200" height="100"/>      
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="100" height="100"/> <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="Tensorflow Logo" width="100" height="100"/> <img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="Html Logo" width="100" height="100"/> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/jupyter/jupyter-original-wordmark.svg" alt="juypter Logo" width="100" height="100"/> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_169823.png" alt="Pytorch Logo" width="200" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="sql Logo" width="100" height="100"/>      
 
 
 ---
