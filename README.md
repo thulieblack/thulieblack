@@ -15,7 +15,7 @@
 <a href="https://hashnode.com/@thulieblack" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a>
 
 
-A Technical Witer, Open Source Enthusiast, Data Scientist and a Python Programmer who is passionate about helping and teaching others. I'm open-minded, always looking for opportunites to learn and upskill.
+I'm a Technical Writer, Data Scientist, Python Programmer and an Open Source enthusiast who is passionate about helping and teaching others. I'm open-minded, always looking for opportunites to learn and upskill.
 
 
 ---
