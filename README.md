@@ -30,6 +30,7 @@ I'm a Technical Writer, Data Scientist, Python Programmer and an Open Source ent
 
 # 📩 Check out my Latest Blog Articles 
 <!-- BLOG-POST-LIST:START -->
+- [Seven Questions You Should Ask During An Interview](https://thulieblack.hashnode.dev/seven-questions-you-should-ask-during-an-interview)
 - [Getting Started With Deep Learning III](https://thulieblack.hashnode.dev/getting-started-with-deep-learning-iii)
 - [Getting Started With Deep Learning II](https://thulieblack.hashnode.dev/getting-started-with-deep-learning-ii)
 - [Getting Started With Deep Learning](https://thulieblack.hashnode.dev/getting-started-with-deep-learning)
