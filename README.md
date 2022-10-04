@@ -28,6 +28,7 @@ I'm a Technical Writer, Data Scientist, Python Programmer and an Open Source ent
 ---
 
 
+
 # 📩 Check out my Latest Blog Articles 
 <!-- BLOG-POST-LIST:START -->
 - [Seven Questions You Should Ask During An Interview](https://thulieblack.hashnode.dev/seven-questions-you-should-ask-during-an-interview)
@@ -41,6 +42,5 @@ I'm a Technical Writer, Data Scientist, Python Programmer and an Open Source ent
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thulieblack&theme=tokyonight)
 
 
