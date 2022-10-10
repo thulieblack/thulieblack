@@ -1,9 +1,32 @@
-### Hie there👋🏿, I'm V Thulisile Sibanda.
-![img](https://i.pinimg.com/originals/88/44/13/884413348e601d88831b61fd969aafc4.gif)
+### Hie there👋🏿,
+
+<!-- Animation Typing -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&&color=F7F7F7&width=500&lines=I'm+V+Thulisile+Sibanda.;"></a>
+</p>
+
+<!-- Animation Typing: END -->
+
+<img src = "https://c.tenor.com/PX1doq1mxnYAAAAM/girl-hacker.gif" align="right" />
 
 
+<h2>⚡️ About Me</h2>
+
+<ul>
+  <li>✨ I’m a Technical Writer, Data Scientist, and a Python programmer. </li>
+
+  <li>👨‍💻 I'm constantly working on improving documentation and writing clear, concise, easy-to-understand articles. </li>
+
+  <li>🔭  Apart from documentation and writing, I'm interested in NLP and Machine Translation. </a>
+
+  <li>💬 I love contributing to open-source projects. </li>
+
+</ul>
+
+<!-- About me section: END -->
 
 
+## 🔗Let's Connect!
 
 <a href="https://twitter.com/thulieblack" target="_blank">
 <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" /></a>
@@ -15,32 +38,31 @@
 <a href="https://hashnode.com/@thulieblack" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a>
 
 
-I'm a Technical Writer, Data Scientist, Python Programmer and an Open Source enthusiast who is passionate about helping and teaching others. I'm open-minded, always looking for opportunites to learn and upskill.
+
+## 🧰 Stack Toolbox 
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+<a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
+<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+<a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+<a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+<a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+<a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 
 
----
 
-🧰 Toolbox
-
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="100" height="100"/> <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="Tensorflow Logo" width="100" height="100"/> <img src="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="Html Logo" width="100" height="100"/> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/jupyter/jupyter-original-wordmark.svg" alt="juypter Logo" width="100" height="100"/> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_169823.png" alt="Pytorch Logo" width="200" height="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="sql Logo" width="100" height="100"/>      
+<!-- Github Stats -->
 
 
----
+## 📊 Github Stats
 
 
-
-# 📩 Check out my Latest Blog Articles 
-<!-- BLOG-POST-LIST:START -->
-- [Seven Questions You Should Ask During An Interview](https://thulieblack.hashnode.dev/seven-questions-you-should-ask-during-an-interview)
-- [Getting Started With Deep Learning III](https://thulieblack.hashnode.dev/getting-started-with-deep-learning-iii)
-- [Getting Started With Deep Learning II](https://thulieblack.hashnode.dev/getting-started-with-deep-learning-ii)
-- [Getting Started With Deep Learning](https://thulieblack.hashnode.dev/getting-started-with-deep-learning)
-- [Recommendation Systems](https://thulieblack.hashnode.dev/recommendation-systems)
-- [The Fundamentals Of Writing](https://thulieblack.hashnode.dev/the-fundamentals-of-writing)
-<!-- BLOG-POST-LIST:END -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thulieblack&show_icons=true&locale=en&theme=tokyonight" alt="thulieblack" /></p>
 
 
----
-
+<!-- Github Stats: END -->
 
 
