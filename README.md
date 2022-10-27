@@ -17,7 +17,7 @@
 
   <li>👨‍💻 I'm constantly working on improving documentation and writing clear, concise, easy-to-understand articles. </li>
 
-  <li>🔭  Apart from documentation and writing, I'm interested in NLP and Machine Translation. </a>
+  <li>🔭  Apart from documentation and writing, I'm interested in NLP, Cloud, and Machine Translation. </a>
 
   <li>💬 I love contributing to open-source projects. </li>
 
