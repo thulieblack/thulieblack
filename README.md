@@ -9,10 +9,18 @@
 
 <img src = "https://c.tenor.com/PX1doq1mxnYAAAAM/girl-hacker.gif" align="right" />
 
+<!-- Profile Views -->
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=thulieblack&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
+
+<!-- Profile Views: END -->
 
 <h2>⚡️ About Me</h2>
 
 <ul>
+ 
   <li>✨ I’m a Technical Writer, Data Scientist, and a Python programmer. </li>
 
   <li>👨‍💻 I'm constantly working on improving documentation and writing clear, concise, easy-to-understand articles. </li>
