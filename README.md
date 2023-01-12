@@ -67,9 +67,9 @@
 
 ## 📝 My Latest Articles 👇🏿 
 
-<!-- HASHNODE_BLOG:START -->
+<!-- BLOGPOSTS:START -->
 
-<!-- HASHNODE_BLOG:END -->
+<!-- BLOGPOSTS:END -->
 
 
 <!-- Github Stats -->
