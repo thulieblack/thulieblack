@@ -68,8 +68,11 @@
 ## 📝 My Latest Articles 👇🏿 
 
 <!-- BLOGPOSTS:START -->
-
-<!-- BLOGPOSTS:END -->
+ - 💫 [My 2022 Year In Review](https://thulieblack.hashnode.dev/my-2022-year-in-review)
+ - 🌮 [Seven Questions You Should Ask During An Interview](https://thulieblack.hashnode.dev/seven-questions-you-should-ask-during-an-interview)
+ - 🔥 [Getting Started With Deep Learning III](https://thulieblack.hashnode.dev/getting-started-with-deep-learning-iii)
+ - 💫 [Getting Started With Deep Learning II](https://thulieblack.hashnode.dev/getting-started-with-deep-learning-ii)
+ - 🔥 [Getting Started With Deep Learning](https://thulieblack.hashnode.dev/getting-started-with-deep-learning)<!-- BLOGPOSTS:END -->
 
 
 <!-- Github Stats -->
