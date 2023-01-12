@@ -2,7 +2,7 @@
 
 <!-- Animation Typing -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&&color=8C98F7FF&width=500&lines=I'm+V+Thulisile+Sibanda.;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&&color=8C98F7FF&width=500&lines=I'm+V.+Thulisile+Sibanda.;"></a>
 </p>
 
 <!-- Animation Typing: END -->
@@ -21,7 +21,7 @@
 
 <ul>
  
-  <li>✨ I’m a Technical Writer, Data Scientist, and a Python programmer. </li>
+  <li>✨ I’m a Technical Documentation Writer, Open Source Fanatic, and a Python programmer. </li>
 
   <li>👨‍💻 I'm constantly working on improving documentation and writing clear, concise, easy-to-understand articles. </li>
 
