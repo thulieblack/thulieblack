@@ -23,11 +23,11 @@
  
   <li>✨ I’m a Technical Documentation Writer, Open Source Fanatic, and a Python programmer. </li>
 
-  <li>👨‍💻 I'm constantly working on improving documentation and writing clear, concise, easy-to-understand articles. </li>
+  <li>👨‍💻 I'm constantly working on improving documentation and  writing clear, concise, easy-to-understand articles/blogs. </li>
 
-  <li>🔭  Apart from documentation and writing, I'm interested in NLP, Cloud, and Machine Translation. </a>
+  <li>🔭  Apart from documentation and writing, I'm interested in NLP, Cloud, and Open Source. </a>
 
-  <li>💬 I love contributing to open-source projects. </li>
+  <li>💬 I love reading manga, watch animes, and K-dramas . </li>
 
 </ul>
 
