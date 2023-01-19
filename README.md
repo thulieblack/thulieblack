@@ -69,7 +69,7 @@
 
 ## 📝 My Latest Articles 👇🏿 
 
-<!-- gitBLOGPOSTS:START -->
+<!-- BLOGPOSTS:START -->
 
 <!-- BLOGPOSTS:END -->
 
