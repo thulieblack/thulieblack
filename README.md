@@ -23,11 +23,11 @@
  
   <li>✨ I’m a Technical Documentation Writer, Open Source Fanatic, and a Python programmer. </li>
 
-  <li> 💼 Documentation contributor at <a href = "https://github.com/asyncapi">AsyncAPI Initiative</a>, an open-source community that helps developers define, build, and maintain asynchronous APIs and EDAs. </li>  
+  <li> 💼 Currently a documentation contributor at <a href = "https://github.com/asyncapi">AsyncAPI Initiative</a>, an open-source community that helps developers define, build, and maintain asynchronous APIs and EDAs. </li>  
 
-  <li>👨‍💻 I'm constantly working on improving documentation and  writing clear, concise, easy-to-understand articles/blogs. </li>
+  <li>👨‍💻 I'm constantly working on improving my technical skills and  writing clear, concise, easy-to-understand articles/blogs. </li>
 
-  <li>🔭  Apart from documentation and writing, I'm interested in NLP, Cloud, and Open Source. </a>
+  <li>🔭  Apart from documentation, I'm interested in NLP, Cloud, and Open Source. </a>
 
   <li>💬 I love reading manga, watch animes, and K-dramas . </li>
 
