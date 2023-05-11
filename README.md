@@ -70,11 +70,11 @@
 ## 📝 My Latest Articles 👇🏿 
 
 <!-- BLOGPOSTS:START -->
- - 💥 [AsyncAPI Community Update: April 2023](https://www.asyncapi.com/blog/april-2023)
- - 🚀 [AsyncAPI Community Update: March 2023](https://www.asyncapi.com/blog/march-2023)
  - 💫 [An Introduction to Functional Programming](https://thulieblack.hashnode.dev/an-introduction-to-functional-programming)
  - 🌮 [My 2022 Year In Review](https://thulieblack.hashnode.dev/my-2022-year-in-review)
- - 🔥 [Seven Questions You Should Ask During An Interview](https://thulieblack.hashnode.dev/seven-questions-you-should-ask-during-an-interview)<!-- BLOGPOSTS:END -->
+ - 🔥 [Seven Questions You Should Ask During An Interview](https://thulieblack.hashnode.dev/seven-questions-you-should-ask-during-an-interview)
+ - 💫 [Getting Started With Deep Learning III](https://thulieblack.hashnode.dev/getting-started-with-deep-learning-iii)
+ - 🔥 [Getting Started With Deep Learning II](https://thulieblack.hashnode.dev/getting-started-with-deep-learning-ii)<!-- BLOGPOSTS:END -->
 
 
 <!-- Github Stats -->
