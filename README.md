@@ -21,13 +21,13 @@
 
 <ul>
  
-  <li>✨ I’m a Technical Documentation Writer, Open Source Fanatic, and a Python programmer. </li>
+  <li>✨ I’m an Open Source Fanatic. </li>
 
   <li> 💼 Currently a contributor at <a href = "https://github.com/asyncapi">AsyncAPI Initiative</a>, an open-source community that helps developers define, build, and maintain asynchronous APIs and EDAs. </li>  
 
-  <li>👨‍💻 I'm constantly working on improving my technical skills and writing clear, concise, easy-to-understand articles/blogs. </li>
+  <li>👨‍💻 I'm constantly working on improving my technical skills. </li>
 
-  <li>🔭  Apart from documentation, I'm interested in NLP, Cloud, and Open Source. </a>
+  <li>🔭  Apart from community and documentation, I'm interested in Cloud and building more in Open Source. </a>
 
   <li>💬 I love reading manga, watching anime, and K-dramas. </li>
 
@@ -67,7 +67,7 @@
 <a href="#"><img alt="Mermaid" src="https://img.shields.io/badge/-mermaid.js-pink"></a>
 
 
-## 📝 My Latest Articles 👇🏿 
+## 📝 My Latest Articles on Hashnode 👇🏿 
 
 <!-- BLOGPOSTS:START -->
  - 💫 [An Introduction to Functional Programming](https://thulieblack.hashnode.dev/an-introduction-to-functional-programming)
