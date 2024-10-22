@@ -10,9 +10,15 @@ Things we should continue investing in:
 
 - Community Initiatives and Programs
 
-## Increase Maintainers and Fully Implement Maintainership 
-Increasing the number of maintainers in our community remains one of our top goals, and we should continue to explore and experiment with strategies to achieve this. A lot of workload goes on as a maintainer, and sharing some of this workload will help reduce the turnaround time of reviewing PRs, working on features, and closing pending issues. One practical approach is to fully implement Maintainership in our open-source grant initiatives. 
-Although we are still in the early stages and have much to learn and unlearn, this strategy could contribute significantly to our long-term goal of growing the number of maintainers.
+## Increase Maintainers
+Increasing the number of maintainers in our community remains one of our top goals, and we should continue to explore and experiment with strategies to achieve this. We have three strategies that could contribute significantly to our long-term goal of growing the number of maintainers.
+
+1. **Fully Implement Maintainership** - We are currently in the pilot stages of implementing maintainership and are already seeing positive outcomes. I believe that by 2025, we need to fully integrate this into all our programs. The program will cater to anyone looking to enhance their skills as maintainers and to learn what it takes to become an open-source maintainer. Additionally, we should be open to individuals who want to apply and don't require any stipend.
+
+2. **AsyncAPI Grant Program** - The AsyncAPI Community Grant Program, funded by the AsyncAPI Initiative, aims to provide financial support for critical technical projects and community initiatives within AsyncAPI. This initiative directly contributes to the ongoing goal of growing and retaining maintainers while sustaining the community. The AsyncAPI Grant Program will specifically cater to individual contributors who are part of TSC members and maintainers.
+
+3. **Increase Corpo Involvement** - 
+
 
 ## Community Educational Content and Videos
 It has become essential to prioritize educational content. These videos can serve as onboarding resources for those looking to understand AsyncAPI and its concepts better. We currently have some training video scripts in the [training repository](https://github.com/asyncapi/training), so we can build on the work we already have.
