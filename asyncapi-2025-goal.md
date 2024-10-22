@@ -21,10 +21,10 @@ Increasing the number of maintainers in our community remains one of our top goa
 
 
 ## Onboarding Docs and Video Content
-It has become essential to prioritize educational content. These videos can serve as onboarding resources for those looking to understand AsyncAPI and its concepts better. We currently have some training video scripts in the [training repository](https://github.com/asyncapi/training), so we can build on the work we already have.
+To improve and streamline the onboarding process for new contributors joining the community, we should still invest in creating onboarding materials. Currently, as part of the 2024 mentorship program, we have some docs that will be added. Additionally, we have training video scripts available in the [training repository](https://github.com/asyncapi/training), which we can record and build upon.
 
 ## Community Working Group Umbrella
-I would like to introduce the Community Working Group, which serves as an umbrella for all the community initiatives and programs at AsyncAPI. We have unofficially functioned as a working group, but it's time to increase visibility regarding our current programs and the individuals who help build, lead, and run them.
+I would like to introduce the Community Working Group, which serves as an umbrella for all community initiatives and programs at AsyncAPI. We have been functioning unofficially as a working group, but it’s time to reorganize, increase visibility for our current programs, and establish a structured approach to how we work.
 
 ``` mermaid
 flowchart LR
@@ -48,8 +48,20 @@ flowchart LR
 
    ```
 
+The community manager will oversee and chair the working group, which includes community builders responsible for building, leading, and running the programs.
+With this structured setup, we will say goodbye to community meetings and hello to the Community WG meeting; this is where we will provide updates on the different programs and the progress the builders are making.
+
 ## Initiatives and Programs
-We are still dedicated to growing the following initiatives as they foster our communities, growth, sustainability, and development, and we should continue to invest in them.
+We remain committed to supporting the following initiatives as they promote community development, sustainability, and growth. We should continue to invest in these programs, which are run and led by outstanding community builders:
+
+- AsyncAPI Bounty Program - Ash
+- AsyncAPI Grant Program - Thulie & Lukasz
+- AsyncAPI Conference 2025 - Thulie
+- Maintainership Program - Ace
+- AsyncAPI Ambassador Program - Thulie
+- Student Ambassador Program  - Bami
+- Working Groups - Thulie**
+
 
 ### 1. AsyncAPI Conf 2025
 I'm pleased with how things went this year and the connections we made through the conference. For 2025, we should hold at least 4 conferences each calendar quarter, including an online edition. Additionally, with some improvements to do:
@@ -87,7 +99,7 @@ For 2025, we need to focus on the following:
 -  Gather feedback from the ambassadors on how we can enhance their experience. 
 - Involve them in the Education Content initiative.
 
-### 5. Community and Educational Content
+### 5. AsyncAPI Grant Program
 Begin developing content based on the training repository and create video materials from it.
 
 ### 6. Student Ambassador Program
@@ -95,4 +107,4 @@ Begin developing content based on the training repository and create video mater
 Get details from Bami
 
 ### 7. Working Groups
-Assess the current working groups activity and update the YAML file. Expand the requirements to include quarterly reports and roadmap milestones from each working group under AsyncAPI.
+Assess the current working group/s activity and update the YAML file. Expand the requirements to include quarterly reports and roadmap milestones from each working group under AsyncAPI.
