@@ -100,7 +100,11 @@ For 2025, we need to focus on the following:
 - Involve them in the Education Content initiative.
 
 ### 5. AsyncAPI Grant Program
-Begin developing content based on the training repository and create video materials from it.
+Since this is a new initiative, some groundwork will be needed.
+
+- Secure funding for the program
+- Create documentation explaining the program, why, and who can apply.
+- Explore other funding organizations, such as STF
 
 ### 6. Student Ambassador Program
 
