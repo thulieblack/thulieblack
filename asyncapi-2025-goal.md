@@ -60,7 +60,7 @@ We remain committed to supporting the following initiatives as they promote comm
 - Maintainership Program - Ace
 - AsyncAPI Ambassador Program - Thulie
 - Student Ambassador Program  - Bami
-- Working Groups - Thulie**
+- Working Groups - Bami
 
 
 ### 1. AsyncAPI Conf 2025
@@ -108,7 +108,11 @@ Since this is a new initiative, some groundwork will be needed.
 
 ### 6. Student Ambassador Program
 
-Get details from Bami
+The focus of the Student Ambassador Program will be:
+
+- Create a document explaining the program, requirements, and who can apply
+- Onboard our very first set of Ambassadors
+
 
 ### 7. Working Groups
 Assess the current working group/s activity and update the YAML file. Expand the requirements to include quarterly reports and roadmap milestones from each working group under AsyncAPI.
