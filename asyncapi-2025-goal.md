@@ -20,7 +20,7 @@ Increasing the number of maintainers in our community remains one of our top goa
 3. **Increase Corpo Involvement** - 
 
 
-## Community Educational Content and Videos
+## Onboarding Docs and Video Content
 It has become essential to prioritize educational content. These videos can serve as onboarding resources for those looking to understand AsyncAPI and its concepts better. We currently have some training video scripts in the [training repository](https://github.com/asyncapi/training), so we can build on the work we already have.
 
 ## Community Working Group Umbrella
@@ -48,7 +48,7 @@ flowchart LR
 
    ```
 
-## Initiaives and Programs
+## Initiatives and Programs
 We are still dedicated to growing the following initiatives as they foster our communities, growth, sustainability, and development, and we should continue to invest in them.
 
 ### 1. AsyncAPI Conf 2025
@@ -94,5 +94,5 @@ Begin developing content based on the training repository and create video mater
 
 Get details from Bami
 
-## Working Groups
+### 7. Working Groups
 Assess the current working groups activity and update the YAML file. Expand the requirements to include quarterly reports and roadmap milestones from each working group under AsyncAPI.
