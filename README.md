@@ -9,47 +9,45 @@
 
 <img src = "https://c.tenor.com/PX1doq1mxnYAAAAM/girl-hacker.gif" align="right" />
 
-<!-- Profile Views -->
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=thulieblack&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
+I build and support Open Source programs and communities, the kind where contributors feel welcome, documentation makes sense, and people want to stick around.
 
-<!-- Profile Views: END -->
-
-<h2>⚡️ About Me</h2>
-
-<ul>
- 
-  <li>✨ I’m an Open Source Fanatic. </li>
-
-  <li> 💼 Currently a contributor at <a href = "https://github.com/asyncapi">AsyncAPI Initiative</a>, an open-source community that helps developers define, build, and maintain asynchronous APIs and EDAs. </li>  
-
-  <li>👨‍💻 I'm constantly working on improving my technical skills. </li>
-
-  <li>🔭  Apart from community and documentation, I'm interested in Cloud and building more in Open Source. </a>
-
-  <li>💬 I love reading manga, watching anime, and K-dramas. </li>
-
-</ul>
-
-<!-- About me section: END -->
+I wear many hats: **Maintainer, Contributor, Program Manager, Documentation Writer, Community Advocate**, and occasional data person.  What ties it all together? Helping individuals do their best work in Open Source.
 
 
-## 🔗Let's Connect!
+## ✨ About Me
 
-<a href="https://twitter.com/thulieblack" target="_blank">
-<img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" /></a>
-<a href="https://github.com/thulieblack" target="_blank">
-<img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?&style=flat-square&logo=github&logoColor=white" />
-<a href="https://www.linkedin.com/in/v-thulisile-sibanda/" target="_blank">
-<img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://hashnode.com/@thulieblack" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a>
+- 💜 Open Source community building & contributor experience  
+- 🛠 Maintaining and supporting projects  
+- 🧭 Governance, working groups, and community processes  
+- 📝 Developer documentation & educational content  
+- 🎤 Events, programs, and community-led initiatives  
+
+## 🌱 Open Source & Community Work
+
+I’m currently deeply involved in the **AsyncAPI Initiative**, contributing both strategically and hands-on from governance and working groups to docs, programs, and community support.
+
+- 🪑 Chair, AsyncAPI Governance Board and Technical Steering Committee member
+- 🧑🏾‍💻 Open Source contributor & Maintainer
+- 🤝 Support and mentor contributors
+- 📚 Write and improve developer documentation
+- 🧭 Help shape governance and community direction
+- 📣 Organise community programs & events
+- 📊 Use data and feedback to improve how communities work
+
+If you care about **healthy, sustainable Open Source communities**, we’ll probably get along.
+
+## 📚 Writing & Knowledge Sharing
+
+ - [The Key to Successful Event](https://thulieblack.github.io/blog/event-success)
+ - [Fueling Passion with Curiosity in Open Source: Beyond Contributions](https://thulieblack.github.io/blog/passion-and-curiosity)
+ - [The Fundamentals Of Writing](https://thulieblack.medium.com/the-fundamentals-of-writing-b1252aa49328)
+ - [An Introduction to Functional Programming](https://thulieblack.medium.com/what-is-functional-programming-and-why-it-is-important-to-learn-it-1821d8ff4d67)
+ - [The Pros and Cons of Working Across Time Zones](https://www.turing.com/kb/pros-cons-of-working-across-time-zones)
+ - [Recommendation System](https://thulieblack.medium.com/recommendation-system-8aa2caa3a129)
 
 
-
-## 🧰 Stack Toolbox 
+## 🧰 Toolbox 
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
 <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
@@ -67,25 +65,12 @@
 <a href="#"><img alt="Mermaid" src="https://img.shields.io/badge/-mermaid.js-pink"></a>
 
 
-## 📝 My Latest Articles on Hashnode 👇🏿 
-
-<!-- BLOGPOSTS:START -->
- - 💫 [An Introduction to Functional Programming](https://thulieblack.hashnode.dev/an-introduction-to-functional-programming)
- - 🌮 [My 2022 Year In Review](https://thulieblack.hashnode.dev/my-2022-year-in-review)
- - 🔥 [Seven Questions You Should Ask During An Interview](https://thulieblack.hashnode.dev/seven-questions-you-should-ask-during-an-interview)
- - 💫 [Getting Started With Deep Learning III](https://thulieblack.hashnode.dev/getting-started-with-deep-learning-iii)
- - 🔥 [Getting Started With Deep Learning II](https://thulieblack.hashnode.dev/getting-started-with-deep-learning-ii)<!-- BLOGPOSTS:END -->
-
-
-<!-- Github Stats -->
-
 
 ## 📊 Github Stats
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thulieblack&show_icons=true&locale=en&theme=tokyonight" alt="thulieblack" /></p>
-
-
-<!-- Github Stats: END -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thulieblack&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thulieblack&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 
