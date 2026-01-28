@@ -25,7 +25,7 @@ I wear many hats: **Maintainer, Contributor, Program Manager, Documentation Writ
 
 ## 🌱 Open Source & Community Work
 
-I’m currently deeply involved in the **AsyncAPI Initiative**, contributing both strategically and hands-on from governance and working groups to docs, programs, and community support.
+I’m currently involved in the **AsyncAPI Initiative**, contributing both strategically and hands-on from governance and working groups to docs, programs, and community support.
 
 - 🪑 Chair, AsyncAPI Governance Board and Technical Steering Committee member
 - 🧑🏾‍💻 Open Source contributor & Maintainer
